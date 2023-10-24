@@ -1,4 +1,4 @@
-# ShailenderPaper2023
+# SI-invivostudies
 A simple R script that I used to plot metabolomic data in a heatmap using pheatmap package
 <br>
 <br>
